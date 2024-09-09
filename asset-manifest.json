@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/color-type-detector/static/css/main.4894383a.css",
-    "main.js": "/color-type-detector/static/js/main.05f325a4.js",
+    "main.js": "/color-type-detector/static/js/main.fd81646a.js",
     "index.html": "/color-type-detector/index.html",
     "main.4894383a.css.map": "/color-type-detector/static/css/main.4894383a.css.map",
-    "main.05f325a4.js.map": "/color-type-detector/static/js/main.05f325a4.js.map"
+    "main.fd81646a.js.map": "/color-type-detector/static/js/main.fd81646a.js.map"
   },
   "entrypoints": [
     "static/css/main.4894383a.css",
-    "static/js/main.05f325a4.js"
+    "static/js/main.fd81646a.js"
   ]
 }
