@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/color-type-detector/static/css/main.c4e02d23.css",
-    "main.js": "/color-type-detector/static/js/main.ae2d733b.js",
+    "main.css": "/color-type-detector/static/css/main.4894383a.css",
+    "main.js": "/color-type-detector/static/js/main.05f325a4.js",
     "index.html": "/color-type-detector/index.html",
-    "main.c4e02d23.css.map": "/color-type-detector/static/css/main.c4e02d23.css.map",
-    "main.ae2d733b.js.map": "/color-type-detector/static/js/main.ae2d733b.js.map"
+    "main.4894383a.css.map": "/color-type-detector/static/css/main.4894383a.css.map",
+    "main.05f325a4.js.map": "/color-type-detector/static/js/main.05f325a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4e02d23.css",
-    "static/js/main.ae2d733b.js"
+    "static/css/main.4894383a.css",
+    "static/js/main.05f325a4.js"
   ]
 }
